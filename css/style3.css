@@ -77,7 +77,7 @@ nav a::after {
 }
 .daftar-gedung {
   border-radius: 10px;
-  background: linear-gradient(90deg, #0C709B 47%, #042735 98%);
+  background: rgba(44, 109, 137, 0.56);
   border: 1px solid black;
   padding: 5px 10px;
 }
@@ -95,7 +95,7 @@ nav a::after {
   padding: 30px 45px 20px;
 }
 .bg {
-  background-color: rgb(44, 68, 178);
+  background: linear-gradient(90deg, #0C709B 47%, #042735 98%);
   border-radius: 25px;
   padding: 25px;
   margin-bottom: 45px;
