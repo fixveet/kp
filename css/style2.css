@@ -6,7 +6,7 @@
   font-weight: 400;
 }
 body {
-  background: linear-gradient(rgb(255, 255, 255), darkblue);
+  background: linear-gradient(#f5f5f5, #49a0c6);
   margin: 0;
   height: 100%;
 }
