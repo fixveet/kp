@@ -94,7 +94,7 @@ nav a::after {
 }
 
 .bg {
-  background: linear-gradient(rgb(188, 227, 242), rgb(56, 56, 193));
+  background: linear-gradient(#0C709BBF, #042735BF));
   border-radius: 25px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
