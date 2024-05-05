@@ -91,26 +91,31 @@ nav a::after {
 
 /*tabel*/
 .gedung {
-  margin: 30px;
-  padding: 30px 45px 20px;
+  margin: 0 auto;
+  padding: 45px 10em ;
 }
 .bg {
-  background: linear-gradient(90deg, #0C709B 47%, #042735 98%);
+  background: linear-gradient( #0c709b 47%, #042735 98%);
   border-radius: 25px;
-  padding: 25px;
+  padding: 15px;
   margin-bottom: 45px;
+ 
 }
-.a {
+
+.tb{
+  margin: 2em auto;
+}
+.tb a {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
-  padding: 0 20px;
-  color: white;
+  height: 100%;
 }
 
 table {
+  margin: 0 auto;
   border-collapse: collapse;
-  width: 100%;
+  width: 80%;
 }
 th,
 td {
