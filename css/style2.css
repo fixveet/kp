@@ -21,7 +21,8 @@ body {
 a {
   display: inline-block;
   text-decoration: none;
-  color: rgb(78, 162, 240);
+  color:#1EAEECBF;
+  ;
 }
 ul {
   margin: 0;
@@ -34,9 +35,10 @@ p {
 }
 .row {
   display: flex;
+
 }
 .container {
-  margin: 0 1.5em;
+ margin: 0 1.5em 0;
 }
 /*Navigation*/
 header {
@@ -45,10 +47,12 @@ header {
   gap: 2em;
   padding: 1em 0;
   border-bottom: 2px solid black;
+
 }
 .logo {
   display: flex;
   align-items: center;
+
 }
 .logo img {
   max-width: 100px;
@@ -61,6 +65,7 @@ header {
 nav ul {
   gap: 2em;
   align-items: center;
+  
 }
 nav a {
   font-weight: 500;
